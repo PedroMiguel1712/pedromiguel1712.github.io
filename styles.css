@@ -57,26 +57,33 @@
    }
 
    #svgheader { 
-    margin-left: 40%;
+    width: 100%;
+    margin-left: 20%;
     list-style: none;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    height: 8vh;}
+    height: 40px;}
 
     #redesociais{
-    width: 50%;
+    width: 20%;
     }
 
     #redesociais2{
-      width: 50%;
-      margin-left: 70%;
+      width: 26%;
     }
 
     #redesociais3{
-      width: 50%;
-      margin-left: 100%;
+      width: 22%;
     }
+
+    #redesociais4{
+      width: 72%;
+    }
+
+    .espaco4{
+      width: 2%;
+    }
+
 
     #ul1header{
     width: 64%;
@@ -87,4 +94,24 @@
 
     #espaco{
       width: 10%;
+    }
+
+    .espaco2{
+      width: 6%;
+    }
+
+    #espaco3{
+      width: 2%;
+    }
+
+    #language{
+      font-size: 12px;
+    }
+
+    #barrinha{
+      padding: 3%;
+    }
+
+    #espaco5{
+      width: 2%;
     }
